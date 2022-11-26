@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @deadc0re, aka deadc0de ))
-- 👀 I’m interested in pwn, everse engineering, deobfuscation and AST Problem.
+- 👀 I’m interested in pwn, everse engineering, deobfuscation and SAT Problem.
 - 🌱 I’m currently learning AARCH64 asm and Cryptogaphy 
 
 <!---
